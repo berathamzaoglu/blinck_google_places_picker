@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Blinck</string>
+    <string name="facebook_app_id">283424416972702</string>
+    <string name="fb_login_protocol_scheme">fb283424416972702</string>
+    <string name="facebook_client_token">a63c53094d61c30a7a941ff7cdecc34a</string>
+</resources>
