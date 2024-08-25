@@ -2,8 +2,8 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_google_places_picker'
-  s.version          = '1.0.0'
+  s.name             = 'blinck_google_places_picker'
+  s.version          = '0.0.1'
   s.summary          = 'Flutter plugin for Google Places and Autocomplete'
   s.description      = <<-DESC
   Flutter plugin for Google Places Autocomplete
